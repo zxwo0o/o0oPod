@@ -1,0 +1,6 @@
+framework module o0oPod {
+  umbrella header "o0oPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

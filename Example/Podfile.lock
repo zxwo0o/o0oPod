@@ -1,0 +1,16 @@
+PODS:
+  - o0oPod (0.1.0)
+
+DEPENDENCIES:
+  - o0oPod (from `../`)
+
+EXTERNAL SOURCES:
+  o0oPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  o0oPod: 0bd2fc257f623ad8b69bdbad5527c1c2a3a7567b
+
+PODFILE CHECKSUM: 8fdb302b3bf53d08b1048e70df76f411acae58b4
+
+COCOAPODS: 1.2.1
