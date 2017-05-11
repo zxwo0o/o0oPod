@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'o0oPod_Example' do
+  pod 'o0oPod', :path => '../'
+
+  target 'o0oPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
