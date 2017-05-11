@@ -24,6 +24,10 @@ pod "o0oPod"
 
 zxwo0o, zhuxuwei@taqu.cn
 
+## conntent 
+
+测试一下远端 pod 创建使用
+
 ## License
 
 o0oPod is available under the MIT license. See the LICENSE file for more info.
