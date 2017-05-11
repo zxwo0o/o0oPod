@@ -62,12 +62,12 @@ static Reachability *tReachability = nil;
             break;
         }
         default:
-            DDLogError(@"no type network !!!");
+//            DDLogError(@"no type network !!!");
             break;
     }
     
     
-    DDLogError(@"net chage to = %@",[NetworkUnit  getNetworkTypeDescription]);
+//    DDLogError(@"net chage to = %@",[NetworkUnit  getNetworkTypeDescription]);
     
 }
 

@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
 s.name             = 'o0oPod'
-s.version          = '0.1.1'
-s.summary          = 'A short description of FirstPod.简短的描述下'
+s.version          = '0.1.2'
+s.summary          = '简短的描述下这个pod是干嘛用的'
 s.description      = <<-DESC
 TODO: Add long description of the pod here. 写点什么其他的描述文字
 DESC
@@ -15,10 +15,10 @@ s.source           = { :git => 'https://github.com/zxwo0o/o0oPod.git', :tag => s
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'FirstPod/Classes/**/*'
+s.source_files = 'o0oPod/Classes/**/*'
 
 # s.resource_bundles = {
-#   'FirstPod' => ['FirstPod/Assets/*.png']
+#   'o0oPod' => ['o0oPod/Assets/*.png']
 # }
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
